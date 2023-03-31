@@ -8,7 +8,7 @@ Current state: working prototype
 
 ![select](/images/example-select.png)
 
-![result](/images/example-select.png)
+![result](/images/example-result.png)
 
 ## Dependencies
 
