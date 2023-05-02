@@ -13,7 +13,7 @@ Current state: working prototype
 ## Dependencies
 
 * Python
-  * httpx
+  * httpx (On Ubuntu the easiest way is to apt install python3-httpx)
 * Makefile
 
 ## Installation
